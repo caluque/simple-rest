@@ -1,0 +1,5 @@
+h2conn:
+  datasource:
+    url: jdbc:h2:mem:db
+    user: sa
+    pass: 95a6eee86d0642ad9f2dbcd19e949f49
